@@ -90,6 +90,8 @@ p { margin: 0 0 1em; }
 .hero .eyebrow { color: var(--yellow); }
 .hero p.lede { font-size: 1.2rem; color: #d5dae1; max-width: 40rem; }
 .hero .note { color: #9aa4b2; font-size: 0.95rem; margin-top: 1.25rem; }
+.hero .note strong { color: #fff; }
+.hero .note a { color: var(--yellow); }
 .eyebrow {
   display: inline-block; font-family: var(--font-head); font-weight: 700;
   text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.82rem; margin-bottom: 0.75rem; color: var(--muted);
